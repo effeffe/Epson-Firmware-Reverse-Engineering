@@ -1,0 +1,19 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+96168         0x177A8         PDF document, version: "1.4"
+4666662       0x473526        uImage header, header size: 64 bytes, header CRC: 0x4AF110B, created: 2020-09-01 10:07:13, image size: 1425032 bytes, Data Address: 0x45508000, Entry Point: 0x45508000, data CRC: 0x8C8C5984, OS: Linux, CPU: ARM, image type: OS Kernel Image, compression type: none, image name: "Linux-4.4.27"
+4666726       0x473566        Linux kernel ARM boot executable zImage (little-endian)
+4682194       0x4771D2        xz compressed data
+4682426       0x4772BA        xz compressed data
+6107430       0x5D3126        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 1968452 bytes, 660 inodes, blocksize: 131072 bytes, created: 2020-09-01 10:10:48
+8466726       0x813126        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 2502910 bytes, 39 inodes, blocksize: 131072 bytes, created: 2020-09-01 10:17:29
+14628459      0xDF366B        Cisco IOS experimental microcode, for "00"
+16171659      0xF6C28B        XML document, version: "1.0"
+16300783      0xF8BAEF        SHA256 hash constants, little endian
+16344993      0xF967A1        StuffIt Deluxe Segment (data): fe
+18654479      0x11CA50F       GIF image data, version "89a", 2807 x 178
+18656622      0x11CAD6E       JPEG image data, EXIF standard
+18707770      0x11D753A       GIF image data, version "89a", 43 x 34
+19828836      0x12E9064       Copyright string: "Copyright(c) 1993 orporation A s reserv."
+
